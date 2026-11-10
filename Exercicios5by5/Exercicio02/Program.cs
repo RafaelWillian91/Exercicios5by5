@@ -4,10 +4,10 @@ Console.WriteLine("********Exercicio Menor, Maior ou igual********");
 
 
 Console.WriteLine("entre com o primeiro número: ");
-int numero = int.Parse(Console.ReadLine());
+double numero = double.Parse(Console.ReadLine());
 
 Console.WriteLine("entre com o segundo número: ");
-int segundoNumero = int.Parse(Console.ReadLine());
+double segundoNumero = double.Parse(Console.ReadLine());
 
 if(numero > segundoNumero){
     Console.WriteLine("O primeiro número é maior");
