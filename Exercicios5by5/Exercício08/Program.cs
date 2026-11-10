@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Cálculo aumento salárial");
+﻿Console.WriteLine("********Cálculo aumento salário************");
 
 
 Console.WriteLine("Entre com o valor do seu salário: ");
