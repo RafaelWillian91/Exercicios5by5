@@ -12,7 +12,7 @@ Console.WriteLine("O resultado final da adição é " + resultadoAdicao);
 int resultadoSubtracao = num1 - num2;
 Console.WriteLine("O resultado final da subtração é " + resultadoSubtracao);
 
-int resultadoDivisao = num1 / num2;
+double resultadoDivisao = (double) num1 / num2;
 Console.WriteLine("O resultado final da divisao é " + resultadoDivisao);
 
 int resultadoMultiplicacao = num1 * num2;
